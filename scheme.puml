@@ -16,7 +16,6 @@
 !includeurl SPRITESURL/meraki.puml
 !includeurl SPRITESURL/server.puml
 !includeurl SPRITESURL/vpn.puml
-!includeurl SPRITESURL/vpmmac.puml
 !includeurl SPRITESURL/webserver.puml
 !includeurl SPRITESURL/wifi.puml
 
