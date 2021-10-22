@@ -1,9 +1,14 @@
 @startuml
 
-' !includeurl https://github.com/mraziz2007/plantuml/raw/master/scheme.puml
+!includeurl https://raw.githubusercontent.com/mraziz2007/plantuml/master/scheme.puml
+'!includeurl https://github.com/mraziz2007/plantuml/blob/raw/master/scheme.puml
 
-' title "TEST"
 title new page test
-Alice -> Bob : test
+
+rectangle "<$router>\n**Router**\n//Router//" as router0
+rectangle "<$layer3switch>\n**Switch**\n//Switch//" as switch0
+
+router0 --- switch0
+
 
 @enduml

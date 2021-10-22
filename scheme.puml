@@ -1,6 +1,6 @@
 @startuml
 
-!define SPRITESURL https://github.com/mraziz2007/plantuml/blob/fc4fc0935f7acbb0b50794250f6961a41fa7b334/sprites
+!define SPRITESURL https://raw.githubusercontent.com/mraziz2007/plantuml/master/sprites
 !includeurl SPRITESURL/LAN1.puml
 !includeurl SPRITESURL/camera.puml
 !includeurl SPRITESURL/circuitbreaker.puml
