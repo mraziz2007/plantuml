@@ -3,6 +3,9 @@
 !define SPRITESURL https://raw.githubusercontent.com/mraziz2007/plantuml/master/sprites
 
 !includeurl SPRITESURL/router.puml
+!includeurl SPRITESURL/layer3switch.puml
+!includeurl SPRITESURL/cloud.puml
+!includeurl SPRITESURL/db.puml
 
 
 'Theme parameters
