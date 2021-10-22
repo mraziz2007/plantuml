@@ -1,7 +1,9 @@
 @startuml
 
-!includeurl https://github.com/mraziz2007/plantuml/raw/master/scheme.puml
+' !includeurl https://github.com/mraziz2007/plantuml/raw/master/scheme.puml
 
-title "TEST"
+' title "TEST"
+title new page test
+Alice -> Bob : test
 
 @enduml
