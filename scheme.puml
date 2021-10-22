@@ -6,12 +6,25 @@
 !includeurl SPRITESURL/layer3switch.puml
 !includeurl SPRITESURL/cloud.puml
 !includeurl SPRITESURL/db.puml
+!includeurl SPRITESURL/camera.puml
+!includeurl SPRITESURL/circuitbreaker.puml
+!includeurl SPRITESURL/circuitbreaker1.puml
+!includeurl SPRITESURL/dbserver.puml
+!includeurl SPRITESURL/firewall.puml
+!includeurl SPRITESURL/LAN1.puml
+!includeurl SPRITESURL/loadbalancer.puml
+!includeurl SPRITESURL/meraki.puml
+!includeurl SPRITESURL/server.puml
+!includeurl SPRITESURL/vpn.puml
+!includeurl SPRITESURL/vpmmac.puml
+!includeurl SPRITESURL/webserver.puml
+!includeurl SPRITESURL/wifi.puml
+
 
 
 'Theme parameters
 scale 1
-'Use case
-skinparam Arr
+
 
 
 @enduml
