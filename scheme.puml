@@ -1,6 +1,7 @@
 @startuml
 
 !define SPRITESURL https://github.com/mraziz2007/plantuml/raw/master/sprites
+!includeurl SPRITESURL/LAN1.puml
 !includeurl SPRITESURL/camera.puml
 !includeurl SPRITESURL/circuitbreaker.puml
 !includeurl SPRITESURL/circuitbreaker1.puml
@@ -8,14 +9,13 @@
 !includeurl SPRITESURL/db.puml
 !includeurl SPRITESURL/dbserver.puml
 !includeurl SPRITESURL/firewall.puml
-!includeurl SPRITESURL/LAN1.puml
 !includeurl SPRITESURL/layer3switch.puml
 !includeurl SPRITESURL/loadbalancer.puml
 !includeurl SPRITESURL/meraki.puml
 !includeurl SPRITESURL/router.puml
 !includeurl SPRITESURL/server.puml
 !includeurl SPRITESURL/vpn.puml
-!includeurl SPRITESURL/vpn-mac.puml
+!includeurl SPRITESURL/vpnmac.puml
 !includeurl SPRITESURL/webserver.puml
 !includeurl SPRITESURL/wifi.puml
 
