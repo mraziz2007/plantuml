@@ -1,0 +1,7 @@
+@startuml
+
+!includeurl https://github.com/mraziz2007/plantuml/raw/master/scheme.puml
+
+title "TEST"
+
+@enduml
