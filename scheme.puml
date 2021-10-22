@@ -8,7 +8,6 @@
 !includeurl SPRITESURL/db.puml
 !includeurl SPRITESURL/dbserver.puml
 !includeurl SPRITESURL/firewall.puml
-!includeurl SPRITESURL/LAN.puml
 !includeurl SPRITESURL/LAN1.puml
 !includeurl SPRITESURL/layer3switch.puml
 !includeurl SPRITESURL/loadbalancer.puml
