@@ -18,7 +18,7 @@
 !includeurl SPRITESURL/vpn.puml
 !includeurl SPRITESURL/webserver.puml
 !includeurl SPRITESURL/wifi.puml
-
+!includeurl SPRITESURL/pa.puml
 
 
 'Theme parameters
