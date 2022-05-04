@@ -20,6 +20,7 @@
 !includeurl SPRITESURL/wifi.puml
 !includeurl SPRITESURL/pa.puml
 !includeurl SPRITESURL/lb.puml
+!includeurl SPRITESURL/f5.puml
 
 
 'Theme parameters
