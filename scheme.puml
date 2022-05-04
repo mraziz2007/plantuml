@@ -19,6 +19,7 @@
 !includeurl SPRITESURL/webserver.puml
 !includeurl SPRITESURL/wifi.puml
 !includeurl SPRITESURL/pa.puml
+!includeurl SPRITESURL/lb.puml
 
 
 'Theme parameters
