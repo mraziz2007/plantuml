@@ -22,6 +22,8 @@
 !includeurl SPRITESURL/lb.puml
 !includeurl SPRITESURL/f5.puml
 !includeurl SPRITESURL/linuxserver.puml
+!includeurl SPRITESURL/phone.puml
+!includeurl SPRITESURL/realphone.puml
 
 
 'Theme parameters
