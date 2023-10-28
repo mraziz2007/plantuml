@@ -26,7 +26,6 @@
 !includeurl SPRITESURL/realphone.puml
 !includeurl SPRITESURL/ap.puml
 !includeurl SPRITESURL/k3s.puml
-!includeurl SPRITESURL/k3s1.puml
 
 
 'Theme parameters
