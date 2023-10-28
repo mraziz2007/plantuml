@@ -29,6 +29,9 @@
 !includeurl SPRITESURL/pod.puml
 !includeurl SPRITESURL/docker.puml
 !includeurl SPRITESURL/nginx.puml
+!includeurl SPRITESURL/nexus-repo.puml
+!includeurl SPRITESURL/rabbitmq.puml
+!includeurl SPRITESURL/sonarqube.puml
 
 
 'Theme parameters
