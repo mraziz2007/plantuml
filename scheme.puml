@@ -26,6 +26,7 @@
 !includeurl SPRITESURL/realphone.puml
 !includeurl SPRITESURL/ap.puml
 !includeurl SPRITESURL/k3s.puml
+!includeurl SPRITESURL/pod.puml
 
 
 'Theme parameters
