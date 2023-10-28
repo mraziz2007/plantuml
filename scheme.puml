@@ -27,6 +27,8 @@
 !includeurl SPRITESURL/ap.puml
 !includeurl SPRITESURL/k3s.puml
 !includeurl SPRITESURL/pod.puml
+!includeurl SPRITESURL/docker.puml
+!includeurl SPRITESURL/nginx.puml
 
 
 'Theme parameters
