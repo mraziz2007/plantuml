@@ -32,6 +32,7 @@
 !includeurl SPRITESURL/nexusrepo.puml
 !includeurl SPRITESURL/rabbitmq.puml
 !includeurl SPRITESURL/sonarqube.puml
+!includeurl SPRITESURL/pc.puml
 
 
 'Theme parameters
