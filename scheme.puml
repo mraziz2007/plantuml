@@ -33,7 +33,7 @@
 !includeurl SPRITESURL/rabbitmq.puml
 !includeurl SPRITESURL/sonarqube.puml
 !includeurl SPRITESURL/pc.puml
-
+!includeurl SPRITESURL/switch.puml
 
 'Theme parameters
 scale 1
